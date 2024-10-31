@@ -26,4 +26,7 @@ for (int x = 0; x < edificio2.Length; x++) {
     }
 }
 Console.WriteLine("Chevere tu branch");
+Console.WriteLine("Arreglo D");
+Console.WriteLine("Arreglo D2");
 Console.WriteLine("chevere tu branch 2");    
+
