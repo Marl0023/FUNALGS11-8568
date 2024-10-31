@@ -26,3 +26,4 @@ for (int x = 0; x < edificio2.Length; x++) {
     }
 }
 Console.WriteLine("Arreglo D");
+Console.WriteLine("Arreglo D2");
